@@ -26,6 +26,6 @@ to learn 3D graphic basics before trying to understand the code.
 
 ## Screenshots
 
-![alt tag](screenshots/main-view.png) ![alt tag](screenshots/rabbit.png)
-![alt tag](screenshots/main-view.png) ![alt tag](screenshots/house.png)
-![alt tag](screenshots/main-view.png) ![alt tag](screenshots/box.png)
+![alt tag](screenshots/rabbit.png)
+![alt tag](screenshots/house.png)
+![alt tag](screenshots/box.png)
