@@ -8,19 +8,19 @@ When I have time I'll refactor it. This project is also very mathematical so I r
 to learn 3D graphic basics before trying to understand the code.
 
 ## How it works(very shortly)
--Grabs data from obj file(3D model)
--Constructs vectors from that data
--Manipulates vectors with transformation matrices
--Fill triangles with texture data
--Draw framebuffer to screen
+- Grabs data from obj file(3D model)
+- Constructs vectors from that data
+- Manipulates vectors with transformation matrices
+- Fill triangles with texture data
+- Draw framebuffer to screen
 
 ## Features
--Draws 3D objects
--Basic operation on 3d objects: scale, rotate, move
--Can draw multiple objects
--Movable camera
--Supports OBJ file format
--Supports textures
+- Draws 3D objects
+- Basic operation on 3d objects: scale, rotate, move
+- Can draw multiple objects
+- Movable camera
+- Supports OBJ file format
+- Supports textures
 
 - Working on shadows/lightning
 
