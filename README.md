@@ -12,17 +12,17 @@ to learn 3D graphic basics before trying to understand the code.
 - Constructs vectors from that data
 - Manipulates vectors with transformation matrices
 - Fill triangles with texture data
-- Draw framebuffer to screen
+- Draws framebuffer to screen
 
 ## Features
 - Draws 3D objects
-- Basic operation on 3d objects: scale, rotate, move
+- Basic operations on 3d objects: scale, rotate and move
 - Can draw multiple objects
 - Movable camera
 - Supports OBJ file format
 - Supports textures
 
-- Working on shadows/lightning
+Working on shadows/lightning
 
 ## Screenshots
 
